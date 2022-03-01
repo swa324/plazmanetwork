@@ -1,8 +1,10 @@
 ## Plazma Network
 
-You can use the [editor on GitHub](https://github.com/swa324/plazmanetwork/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Who are we? 
+We are a community from the year YEAR On our discord + email + and Minecraft server. We wan't players to have the best experience in our minecraft server.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is our Minecraft Server IP adress? 
+We have'nt released the server yet, it will be out soon.
 
 ### Markdown
 
