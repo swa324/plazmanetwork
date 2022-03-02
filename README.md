@@ -1,32 +1,16 @@
 ## Plazma Network
 
-## Who are we? 
+**Who are we?** 
 We are a community from the year YEAR On our discord + email + and Minecraft server. We wan't players to have the best experience in our minecraft server.
 
-## What is our Minecraft Server IP adress? 
+**What is our Minecraft Server IP adress?** 
 We have'nt released the server yet, it will be out soon.
 
-### Markdown
+**When will it get released?**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We have only completed 3/8 games so far . We wont release dat soon because after the games we have some more mentainence to do. Our minecraft server will be released once all the maintenence we are doing right now and the 8 games are finished. But we are working as fast as we can to release. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
