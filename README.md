@@ -1,9 +1,11 @@
 ## Plazma Network
 
 **Who are we?** 
+
 We are a community from the year YEAR On our discord + email + and Minecraft server. We wan't players to have the best experience in our minecraft server.
 
 **What is our Minecraft Server IP adress?** 
+
 We have'nt released the server yet, it will be out soon.
 
 **When will it get released?**
